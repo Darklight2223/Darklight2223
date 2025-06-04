@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Kanishk Kumar! (aka darklight2223)
+# 👋 Hi, I’m Kanishk ! (aka darklight2223)
 
 🚀 **About Me**
 
