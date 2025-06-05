@@ -2,7 +2,7 @@
 
 🚀 **About Me**
 
-I'm a passionate student at NSUT Delhi, delving into the world of technology with a keen interest in full stack development and machine learning. Whether it’s building robust web applications or exploring intelligent solutions, I thrive on turning ideas into impactful projects.
+I'm a passionate student at NSUT Delhi, delving into the world of technology with a keen interest in full stack development and machine learning. Whether it’s building robust web applications or intelligent models, I'm always eager to learn and innovate.
 
 ---
 
@@ -12,7 +12,10 @@ I'm a passionate student at NSUT Delhi, delving into the world of technology wit
   - MongoDB | Express.js | React | Node.js | MySQL
 
 - **Machine Learning**
-  - Building intelligent solutions with modern tools and frameworks
+  - Proficient with Python and libraries: scikit-learn, pandas, numpy, matplotlib, TensorFlow
+
+- **Development Tools**
+  - Git, Postman, Docker
 
 ---
 
@@ -54,4 +57,16 @@ I'm a passionate student at NSUT Delhi, delving into the world of technology wit
 
 ## 🌐 Connect with me
 
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" width="24" height="24" style="vertical-align:middle; margin-right:8px;"/> Instagram](https://www.instagram.com/kanishk_2223/)
+<p>
+  <a href="https://www.instagram.com/kanishk_2223" target="_blank">
+    <img alt="Instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="24" style="vertical-align:middle; margin-right:8px;"/>
+    Instagram
+  </a>
+</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/kanishk-k-48b728325/" target="_blank">
+    <img alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="24" style="vertical-align:middle; margin-right:8px;"/>
+    LinkedIn
+  </a>
+</p>
