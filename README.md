@@ -21,8 +21,8 @@ I'm a passionate student at NSUT Delhi, delving into the world of technology wit
 
 ## 🤖 Competitive Programming
 
-- **CodeChef:** [3★ Rated](https://www.codechef.com/users/kanishk_2223)
-- **Codeforces:** [Specialist](https://codeforces.com/profile/kanishk2223)
+- **CodeChef:** [4★ Rated](https://www.codechef.com/users/kanishk_2223)
+- **Codeforces:** [Expert](https://codeforces.com/profile/kanishk2223)
 - I enjoy tackling algorithmic challenges and constantly improving my problem-solving skills!
 
 ---
