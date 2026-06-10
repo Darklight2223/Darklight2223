@@ -1,72 +1,65 @@
-# 👋 Hi, I’m Kanishk ! (aka darklight2223)
+<h2 align="center">Hi ! I am Kanishk :) </h2>
 
-🚀 **About Me**
+Undergrad at <a href="http://nsut.ac.in/en/home">@NSUT</a>, pursuing B.Tech in Computer Science Engineering with Artificial Intelligence. I enjoy building AI-powered applications, solving algorithmic problems, and exploring modern technologies across Applied AI and Deep Learning.
 
-I'm a passionate student at NSUT Delhi, delving into the world of technology with a keen interest in full stack development and machine learning. Whether it’s building robust web applications or intelligent models, I'm always eager to learn and innovate.
+* Building AI-powered products using LLMs, RAG Systems, and Full Stack technologies
+* Exploring Applied AI, Generative AI, Diffusion Models, and Retrieval-Augmented Generation
+* Open to collaborate on AI, Full Stack, and Open Source Projects
 
----
+<br>
 
-## 💻 Tech Stack
+<h2 align="left">Tech Stack</h2>
 
-- **Full Stack Development (MERN)**
-  - MongoDB | Express.js | React | Node.js | MySQL
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
+  <img width="12" />
 
-- **Machine Learning**
-  - Proficient with Python and libraries: scikit-learn, pandas, numpy, matplotlib, TensorFlow
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo" />
+  <img width="12" />
 
-- **Development Tools**
-  - Git, Postman, Docker
+  <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo" />
+  <img width="12" />
 
----
+  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="30" alt="gcp logo" />
+  <img width="12" />
 
-## 🤖 Competitive Programming
+  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo" />
+</div>
 
-- **CodeChef:** [4★ Rated](https://www.codechef.com/users/kanishk_2223)
-- **Codeforces:** [Expert](https://codeforces.com/profile/kanishk2223)
-- I enjoy tackling algorithmic challenges and constantly improving my problem-solving skills!
+###
 
----
+<br>
 
-## 🌱 Currently Learning
+### 
 
-- Advanced web architectures & cloud deployment
-- Deep learning
-- Deepening my knowledge in algorithms and data structures
+<h2 align="left">GitHub Stats</h2>
 
----
+<p align="center">
+ <img height="170" src="https://github-readme-stats.vercel.app/api?username=Darklight2223&show_icons=true&theme=github_dark&rank_icon=github&hide_title=true" />
 
-## 🎯 Goals
-
-- Build projects that blend web development and AI
-- Achieve higher ranks in programming contests
-- Continuously grow as a developer
-
----
-
-## 📌 Fun Facts
-
-- I love collaborating on open-source projects and solving real-world problems.
-- Always excited for tech challenges!
-- When I’m not coding, you’ll find me exploring new music or gaming.
-
----
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
----
-
-## 🌐 Connect with me
-
-<p>
-  <a href="https://www.instagram.com/kanishk_2223" target="_blank">
-    <img alt="Instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="24" style="vertical-align:middle; margin-right:8px;"/>
-    Instagram
-  </a>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darklight2223&layout=compact&theme=github_dark" />
 </p>
 
-<p>
-  <a href="https://www.linkedin.com/in/kanishk-k-48b728325/" target="_blank">
-    <img alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="24" style="vertical-align:middle; margin-right:8px;"/>
-    LinkedIn
-  </a>
-</p>
+###
