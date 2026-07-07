@@ -56,16 +56,9 @@ Undergrad at <a href="http://nsut.ac.in/en/home">@NSUT</a>, pursuing B.Tech in C
 
 <h2 align="left">GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Darklight2223&theme=github-dark-blue&hide_border=false&card_height=170&card_width=450" alt="GitHub Streak Stats"/>
-
-  <a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#top-languages-card">
-    <img
-      width="345"
-      alt="Top Languages"
-      src="https://github-readme-stats-tau-nine-81.vercel.app/api/top-langs/?username=Darklight2223&layout=compact&title_color=cba6f7&theme=github_dark"
-    />
-  </a>
-</p>
+<div align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card"><img height="190" align="center" alt="GitHub Stats" src="https://github-readme-stats-tau-nine-81.vercel.app/api?username=Darklight2223&show_icons=true&custom_title=GitHub+Statistics&title_color=cba6f7&theme=catppuccin_mocha&border_color=45475a"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#top-languages-card"><img width="345" align="center" alt="Top Language" src="https://github-readme-stats-tau-nine-81.vercel.app/api/top-langs/?username=Darklight2223&layout=compact&title_color=cba6f7&theme=catppuccin_mocha&border_color=45475a"/></a>
+</div>
 
 ###
